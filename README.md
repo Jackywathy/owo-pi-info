@@ -15,3 +15,4 @@ https://en.wikipedia.org/wiki/L4_microkernel_family
   - file system support (VFS)
   - any additional ones???
 
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
