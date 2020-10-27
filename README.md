@@ -1,7 +1,9 @@
 # owo-pi-info
 info repository for pi os
 
-Research: https://jsandler18.github.io/tutorial/dev-env.html
+Research: 
+https://jsandler18.github.io/tutorial/dev-env.html
+
 https://en.wikipedia.org/wiki/L4_microkernel_family
 
 ## L4 Microkernels
