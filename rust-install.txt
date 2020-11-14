@@ -1,0 +1,5 @@
+rustup toolchain add nightly-2020-10-04
+rustup default nightly-2020-10-04
+rustup component add llvm-tools-preview
+rustup target add aarch64-unknown-none-softfloat
+cargo install cargo-binutils
